@@ -1,4 +1,4 @@
-package com.maven.sampleproject;
+package com.maven_example;
 
 import java.util.Scanner;
 
